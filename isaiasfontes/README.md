@@ -4,12 +4,16 @@
 
 ### Tarefa 8
 
+
 Escopo, pré-requisitos e objetivo
 
 Iniciando...
 git clone https://github.com/isaiasfontes/gestao-configuracao-trabalho-final.git
 cd exemplo
 Agora você poderá executar os vários comandos abaixo.
+
+### Informações adicionais 
+# Incluida as informações referentes a Variáveis de utilização da aplicação.
 
 Variáveis
 
