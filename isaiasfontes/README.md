@@ -2,19 +2,27 @@
 
 ## Trabalho final
 
-- Trabalho individual.
-- Mantenha seu repositorio público.
-- Prazo limite: Final da sexta aula. As 12:00 PM
-- Composição da nota: Trabalho 1 (1 ponto) + Trabalho final (Maximo: 9).
+### Tarefa 8
 
-Requisitos:
-• Git bash
-• Gitk
-• Conta no GitHub
+Escopo, pré-requisitos e objetivo
 
-Cenário:
-> Você está trabalhando em um projeto que utiliza Git e GitHub como
-ferramentas. Realize as seguintes tarefas que representam o fluxo de
-trabalho com Git/GitHub
+Iniciando...
+git clone https://github.com/isaiasfontes/gestao-configuracao-trabalho-final.git
+cd exemplo
+Agora você poderá executar os vários comandos abaixo.
 
-O Arquivo com os demais detalhes esta disponivel no AVA.
+Variáveis
+
+VariaveAPP_NAME=Rocketseat Blog
+
+SECRET_API=9as1%12#xz0#@
+
+CPUS=4
+
+# Banco de dados
+DB_NAME=rocketseat
+DB_PASS=
+DB_HOST=localhost
+
+# Stack
+STACK=["React Native", "ReactJS", "NodeJS"]
